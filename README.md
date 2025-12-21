@@ -1,6 +1,12 @@
 # 💫 About Me:
 MERN stack & Flutter enthusiast 🚀 | Exploring new tech and experimenting across domains | Building cool stuff one project at a time
 
+## 🛠️ Tools I've Created:
+- **[qpr-semantic-create-pr](https://www.npmjs.com/package/qpr-semantic-create-pr)** - A CLI tool that streamlines the PR creation process with semantic commit conventions, making it easier to maintain consistent and meaningful pull request descriptions.
+
+## 🎮 Games I've Created:
+- **[Dinner Rush](https://dinner-rush.vercel.app/)** *(Alpha)* - A fast-paced restaurant management game
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/angweichern/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angweichern@gmail.com) 
 
