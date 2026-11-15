@@ -94,7 +94,6 @@ A CLI tool that streamlines PR creation with semantic commit conventions
 
 ### Cloud & AI
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS AI services](https://img.shields.io/badge/AWS%20AI%20services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
