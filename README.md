@@ -2,9 +2,9 @@
 
 # 👋 Hey, I'm Albert!
 
-### Full-Stack Developer | Tech Explorer | Problem Solver
+### Full Stack Developer
 
-*Building cool stuff, one commit at a time* 🚀
+*I turn complex business workflows into simple, reliable products.* 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angweichern/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angweichern@gmail.com)
@@ -17,35 +17,42 @@
 
 ```typescript
 const albert = {
-    role: "MERN Stack & Flutter Enthusiast",
-    interests: ["Web Development", "Mobile Apps", "Game Development"],
-    currentlyLearning: "Exploring new tech across domains",
-    philosophy: "Code with purpose, build with passion"
+    role: "Full Stack Developer",
+    experience: "6+ years shipping production web apps",
+    industries: ["Automotive retail", "Digital events", "E-commerce"],
+    education: "B.SE (Information System Development), First Class Honours, UKM",
+    languages: ["English", "Mandarin", "Malay"],
 };
 ```
 
 ---
 
-## 🎯 Featured Projects
+## 💼 Experience
 
-### 📚 **[EduShare](https://github.com/AlbertWC/edushare)** 
-*Educational resource sharing platform*
+### 🚗 **Appvantage** · Full Stack Developer *(Jul 2022 – Present)*
+- **Retail Centre:** enterprise automotive retail platform bringing vehicle sales, banking and leasing into one workflow, with multi-bank finance products, date-based campaigns and a rental module with real-time inventory.
+- **AI Voice Agent:** lead management, CRM and inventory management in one platform.
+- MERN stack with TypeScript and GraphQL; mentoring junior developers and setting up CI/CD and Git workflows.
 
-**Tech Stack:**
-- 🎨 Frontend: React, TypeScript, TailwindCSS
-- ⚙️ Backend: Node.js, Express.js, MongoDB
-- 🔐 Auth: JWT, Passport.js
-- ☁️ Deployment: Vercel, MongoDB Atlas
+### 🎪 **Fusionex** · Consultant, Solution Development *(Aug 2020 – Jun 2022)*
+- B2B platforms for virtual exhibitions, livestreamed events and real-time business matching, with payment gateway integration.
+
+---
+
+## 🎯 Side Projects
+
+### 🍱 **[12 O'KLOCK](https://12oklock.com/)**
+*E-commerce setup for a Malaysian bento box and lunch-gear brand*
+- Online store on WordPress and WooCommerce: product catalogue with variants and add-ons, bulk orders, WhatsApp ordering and social channels.
+
+### 🛕 **GBA Admin**
+*Admin platform for a Buddhist association, built module by module*
+- Receipt management, inventory and floor plan management, teaching management, and events with QR check-in, plus AI that turns chanting books into text in multiple languages.
+- Stack: React, MUI, Node.js, Express, TypeScript, MySQL.
 
 ### 🍽️ **[Dinner Rush](https://dinner-rush.vercel.app/)** *(Alpha)*
 *Fast-paced restaurant management game where speed meets strategy*
-
-**Tech Stack:**
-- 🎮 Framework: React, TypeScript
-- 🎨 Styling: TailwindCSS / Styled Components
-- 🎯 State Management: Zustand / Redux
-- 🚀 Build: Vite
-- ☁️ Deployment: Vercel
+- React, TypeScript, Vite, deployed on Vercel.
 
 ---
 
@@ -56,6 +63,14 @@ A CLI tool that streamlines PR creation with semantic commit conventions
 - Makes maintaining consistent PRs a breeze
 - Follows conventional commit standards
 - Available on npm
+
+---
+
+## 🏆 Certificates & Achievements
+- **CPRE-FL Certification** (MY-CPRE-FL-2019-00012)
+- **MonsoonSIM Business Simulation:** Top 10 Finalist, Regional Malaysia
+- **ABCDE Kuala Lumpur Hackathon @ ADAX:** Top 10 Finalist
+- **[Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/74339e1d-37d0-4f92-8976-491b317ae7fb)** profile
 
 ---
 
