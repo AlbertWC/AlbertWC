@@ -93,6 +93,14 @@ A CLI tool that streamlines PR creation with semantic commit conventions
 
 ---
 
+## 👋 Say Hi
+
+Want to talk about a role or a project? [**Open a "Say hi" issue**](https://github.com/AlbertWC/AlbertWC/issues/new?template=say-hi.yml) or message me on [LinkedIn](https://linkedin.com/in/angweichern/).
+
+*Issues here are public, so please don't include private details.*
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
