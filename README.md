@@ -27,18 +27,6 @@ const albert = {
 
 ---
 
-## 💼 Experience
-
-### 🚗 **Appvantage** · Full Stack Developer *(Jul 2022 – Present)*
-- **Retail Centre:** enterprise automotive retail platform bringing vehicle sales, banking and leasing into one workflow, with multi-bank finance products, date-based campaigns and a rental module with real-time inventory.
-- **AI Voice Agent:** lead management, CRM and inventory management in one platform.
-- MERN stack with TypeScript and GraphQL; mentoring junior developers and setting up CI/CD and Git workflows.
-
-### 🎪 **Fusionex** · Consultant, Solution Development *(Aug 2020 – Jun 2022)*
-- B2B platforms for virtual exhibitions, livestreamed events and real-time business matching, with payment gateway integration.
-
----
-
 ## 🎯 Side Projects
 
 ### 🍱 **[12 O'KLOCK](https://12oklock.com/)**
